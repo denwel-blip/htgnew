@@ -57,7 +57,7 @@ const Index = () => {
         ></div>
         <div className="relative z-10 text-center max-w-4xl mx-auto px-4">
           <h1 className="font-serif text-4xl md:text-7xl font-bold mb-6 leading-tight">
-            HerndoTang Group<br />
+            HendoTang Group<br />
             <span className="text-accent">Venture Capital for High-Value Asset & Technology Innovation</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 opacity-90 max-w-2xl mx-auto">
@@ -102,9 +102,9 @@ const Index = () => {
                       </li>
                     ))}
                   </ul>
-                  <Button variant="outline" className="mt-6 w-full border-accent text-accent hover:bg-accent hover:text-accent-foreground">
+                  {/* <Button variant="outline" className="mt-6 w-full border-accent text-accent hover:bg-accent hover:text-accent-foreground">
                     View Portfolio
-                  </Button>
+                  </Button> */}
                 </CardContent>
               </Card>
             ))}

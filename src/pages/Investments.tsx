@@ -70,7 +70,7 @@ const Investments = () => {
             </h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="text-lg leading-relaxed mb-6">
-                Heritage Capital invests in founders building the next generation of real-asset and industrial innovation. 
+                HTG invests in founders building the next generation of real-asset and industrial innovation. 
                 Drawing on decades of experience across global commodities, energy systems, and institutional markets, 
                 we deploy early-stage capital into ventures positioned to reshape the physical and digital infrastructure of tomorrow.
               </p>

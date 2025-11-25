@@ -143,7 +143,7 @@ const Services = () => {
               Partnership Value
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              The Heritage Capital advantage extends far beyond capital — we become an active partner in building high-growth, high-impact ventures.
+              The HTG advantage extends far beyond capital — we become an active partner in building high-growth, high-impact ventures.
             </p>
           </div>
           
@@ -170,7 +170,7 @@ const Services = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-3xl mx-auto">
             <h2 className="font-serif text-3xl md:text-4xl font-bold mb-6">
-              Ready to Partner With Heritage Capital?
+              Ready to Partner With HendoTang Group?
             </h2>
             <p className="text-xl mb-8 opacity-90">
              If you're developing a transformative venture in real estate, hospitality, oil & gas technology, robotics, drones, AI infrastructure, or next-generation energy systems, we'd welcome the opportunity to explore partnership.

@@ -131,7 +131,7 @@ const Layout = () => {
         <div className="container mx-auto px-4 py-12">
           <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
             <p className="text-sm text-primary-foreground/60">
-              © 2024 HendoTang Group All rights reserved.
+              © 2023 HendoTang Group All rights reserved.
             </p>
           </div>
         </div>

@@ -46,13 +46,13 @@ const Contact = () => {
   ];
 
   const inquiryTypes = [
-    "Buyer Inquiry – EN590 / Jet A1 / D6",
-    "Seller Inquiry – EN590 / Jet A1 / D6",
-    "Deal Verification / KYC Submission",
-    "Brokerage & Transaction Support",
-    "Strategic Advisory & Market Intelligence",
-    "Investment Opportunities (Real Estate / Energy / Infrastructure / Technology)",
-    "Partner or Network Collaboration",
+    "Investment Inquiry – Seed / Angel Funding",
+    "Venture Proposal – Real Estate / Hotels",
+    "Venture Proposal – Energy / Oil & Gas Technology",
+    "Venture Proposal – AI / Digital Infrastructure",
+    "Strategic Partnership & Collaboration",
+    "Advisor / Network Contribution",
+    "Due Diligence / Documentation Submission",
     "General Inquiry"
   ];
 
@@ -96,8 +96,9 @@ const Contact = () => {
             Start Your Commodity Transaction With Confidence
           </h1>
           <p className="text-xl md:text-2xl max-w-4xl mx-auto opacity-90 leading-relaxed">
-            Connect with HTG’s experienced brokerage team to initiate a verified, secure, and disciplined deal process for EN590, Jet A1, or D6.
-            Our global network and structured approach ensure your inquiry is handled with precision and confidentiality.
+            Connect with HTG’s venture team to explore <strong>seed and angel investment opportunities</strong> in high-growth sectors including <strong>hospitality & real estate, 
+            energy technology, robotics & drone systems, and AI infrastructure</strong>. Our institutional network, disciplined due-diligence framework, 
+            and founder-first approach ensure every opportunity is reviewed with <strong>rigour, discretion, and strategic insight</strong>.
           </p>
         </div>
       </section>
@@ -205,7 +206,7 @@ const Contact = () => {
                       <p>* Required fields</p>
                       <p className="mt-2">
                         By submitting this form, you agree to our privacy policy and consent 
-                        to being contacted by Heritage Commodities regarding your inquiry.
+                        to being contacted by HendoTang Group regarding your inquiry.
                       </p>
                     </div>
                     
